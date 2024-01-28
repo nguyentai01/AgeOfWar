@@ -1,0 +1,39 @@
+{
+"PlanetName":1,
+"Plant":
+[
+{ "Listtrop":[
+    {
+        "InforTrop":[
+    { "Hp":50,"Dmg":10,"Ranger":2,"Speed":5,"SpeedAttack":1,"Food":5},
+	{ "Hp":30,"Dmg":15,"Ranger":5,"Speed":5,"SpeedAttack":1.2,"Food":7},
+	{ "Hp":70,"Dmg":20,"Ranger":2.5,"Speed":7,"SpeedAttack":1,"Food":15}
+	]},
+	{
+        "InforTrop":[
+    { "Hp":50,"Dmg":10,"Ranger":2,"Speed":5,"SpeedAttack":1,"Food":5},
+	{ "Hp":30,"Dmg":15,"Ranger":5,"Speed":5,"SpeedAttack":1.2,"Food":7},
+	{ "Hp":70,"Dmg":20,"Ranger":2.5,"Speed":7,"SpeedAttack":1,"Food":15}
+	]}
+	]
+}],
+"PlanetName":2,
+"Plant":
+[
+{ "Listtrop":[
+    {
+        "InforTrop":[
+    { "Hp":50,"Dmg":10,"Ranger":2,"Speed":5,"SpeedAttack":1,"Food":5},
+	{ "Hp":30,"Dmg":15,"Ranger":5,"Speed":5,"SpeedAttack":1.2,"Food":7},
+	{ "Hp":70,"Dmg":20,"Ranger":2.5,"Speed":7,"SpeedAttack":1,"Food":15}
+	]},
+	{
+        "InforTrop":[
+    { "Hp":50,"Dmg":10,"Ranger":2,"Speed":5,"SpeedAttack":1,"Food":5},
+	{ "Hp":30,"Dmg":15,"Ranger":5,"Speed":5,"SpeedAttack":1.2,"Food":7},
+	{ "Hp":70,"Dmg":20,"Ranger":2.5,"Speed":7,"SpeedAttack":1,"Food":15}
+	]}
+	]
+}]
+}
+
