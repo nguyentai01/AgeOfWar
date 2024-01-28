@@ -33,4 +33,4 @@ public class ArrowWeapon : MonoBehaviour
             gameObject.SetActive(false);
         }
     }
-}//Tsett
+}//Tsetts
