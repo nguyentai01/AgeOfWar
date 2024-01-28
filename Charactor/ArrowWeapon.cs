@@ -13,6 +13,7 @@ public class ArrowWeapon : MonoBehaviour
 
     private void OnEnable()
     {
+        //c
         float dis = Vector3.Distance(transform.position, target.position);
         TwMove = transform.DOMove(target.position, dis/speed).OnComplete(()=>{ gameObject.SetActive(false); });
     }
