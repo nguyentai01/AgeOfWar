@@ -1,0 +1,180 @@
+ [
+  {
+    "collectionData":[
+       {
+        "nameIcon": "icon_1_1",
+         "nameItem":"Dinosaur Fang",
+        "baseBonus": 20,
+        "rare": 1,
+        "rate": 1,
+        "bonusPercentLevel": 4
+      },
+      {
+        "nameIcon": "icon_2_1",
+        "nameItem":"Gauntlet of Justice",
+        "baseBonus": 10,
+        "rare": 2,
+        "rate": 4,
+        "bonusPercentLevel": 3
+      },
+      {
+        "nameIcon": "icon_2_2",
+        "nameItem":"Portable Gasoline Can",
+        "baseBonus": 8,
+        "rare": 3,
+        "rate": 10,
+        "bonusPercentLevel": 2.5
+      },
+      {
+        "nameIcon": "icon_4_3",
+        "nameItem":"Atomic Bomb",
+        "baseBonus": 4,
+        "rare": 4,
+        "rate": 35,
+        "bonusPercentLevel": 2
+      },
+      {
+        "nameIcon": "icon_5_1",
+        "nameItem":"Landmine",
+        "baseBonus": 2,
+        "rare": 5,
+        "rate": 50,
+        "bonusPercentLevel": 1
+      }
+    ]
+  }  ,
+   {
+    "collectionData":[
+       {
+        "nameIcon": "icon_1_2",
+         "nameItem":"Zeus's Lightning Bolt",
+        "baseBonus": 20,
+        "rare": 1,
+        "rate": 1,
+        "bonusPercentLevel": 4
+      },
+      {
+        "nameIcon": "icon_3_1",
+        "nameItem":"Witch's Purple Potion",
+        "baseBonus": 10,
+        "rare": 2,
+        "rate": 4,
+        "bonusPercentLevel": 3
+      },
+      {
+        "nameIcon": "icon_3_2",
+        "nameItem":"Sage's Book",
+        "baseBonus": 8,
+        "rare": 3,
+        "rate": 10,
+        "bonusPercentLevel": 2.5
+      },
+      {
+        "nameIcon": "icon_4_1",
+        "nameItem":"First-Aid Kit",
+        "baseBonus": 4,
+        "rare": 4,
+        "rate": 35,
+        "bonusPercentLevel": 2
+      },
+      {
+        "nameIcon": "icon_5_4",
+        "nameItem":"Screw",
+        "baseBonus": 2,
+        "rare": 5,
+        "rate": 50,
+        "bonusPercentLevel": 1
+      }
+    ]
+  },
+   {
+    "collectionData":[
+       {
+        "nameIcon": "icon_1_4",
+         "nameItem":"Mysterious Egg",
+        "baseBonus": 20,
+        "rare": 1,
+        "rate": 1,
+        "bonusPercentLevel": 4
+      },
+      {
+        "nameIcon": "icon_2_3",
+        "nameItem":"Eternal Food Box",
+        "baseBonus": 10,
+        "rare": 2,
+        "rate": 4,
+        "bonusPercentLevel": 3
+      },
+      {
+        "nameIcon": "icon_3_4",
+        "nameItem":"Laughing Seashell",
+        "baseBonus": 8,
+        "rare": 3,
+        "rate": 10,
+        "bonusPercentLevel": 2.5
+      },
+      {
+        "nameIcon": "icon_4_2",
+        "nameItem":"Green Frog Leg",
+        "baseBonus": 4,
+        "rare": 4,
+        "rate": 35,
+        "bonusPercentLevel": 2
+      },
+      {
+        "nameIcon": "icon_4_5",
+        "nameItem":"Wooden Bone",
+        "baseBonus": 2,
+        "rare": 5,
+        "rate": 50,
+        "bonusPercentLevel": 1
+      }
+    ]
+  }  ,
+   {
+    "collectionData":[
+       {
+        "nameIcon": "icon_1_3",
+         "nameItem":"Thor's Hammer",
+        "baseBonus": 20,
+        "rare": 1,
+        "rate": 1,
+        "bonusPercentLevel": 4
+      },
+      {
+        "nameIcon": "icon_2_4",
+        "nameItem":"Inescapable Radar",
+        "baseBonus": 10,
+        "rare": 2,
+        "rate": 4,
+        "bonusPercentLevel": 3
+      },
+      {
+        "nameIcon": "icon_3_3",
+        "nameItem":"Infinite Magnet",
+        "baseBonus": 8,
+        "rare": 3,
+        "rate": 10,
+        "bonusPercentLevel": 2.5
+      },
+      {
+        "nameIcon": "icon_4_4",
+        "nameItem":"Steel Shovel",
+        "baseBonus": 4,
+        "rare": 4,
+        "rate": 35,
+        "bonusPercentLevel": 2
+      },
+      {
+        "nameIcon": "icon_5_2",
+        "nameItem":"Four-Leaf Clover",
+        "baseBonus": 2,
+        "rare": 5,
+        "rate": 50,
+        "bonusPercentLevel": 1
+      }
+    ]
+  }  
+   
+
+ ]

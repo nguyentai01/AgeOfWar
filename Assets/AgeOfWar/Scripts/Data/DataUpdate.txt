@@ -1,0 +1,291 @@
+{
+  "PlantHomes": [
+    {
+      "IdPlant": 1,
+      "ListLevelHomes": [
+        {
+          "Age": 1,
+          "HpHomePlay": 8,
+          "CoinUpdate": 500,
+          "HpHomeBot": 100
+        },
+        {
+          "Age": 2,
+          "HpHomePlay": 100,
+          "CoinUpdate": 1000,
+          "HpHomeBot": 500
+        },
+        {
+          "Age": 3,
+          "HpHomePlay": 1000,
+          "CoinUpdate": 2000,
+          "HpHomeBot": 5000
+        },
+        {
+          "Age": 4,
+          "HpHomePlay": 10000,
+          "CoinUpdate": 5000,
+          "HpHomeBot": 30000
+        },
+        {
+          "Age": 5,
+          "HpHomePlay": 100000,
+          "CoinUpdate": 12000,
+          "HpHomeBot": 100000
+        },
+        {
+          "Age": 6,
+          "HpHomePlay": 1000000,
+          "CoinUpdate": 25000,
+          "HpHomeBot": 5000000
+        }
+      ]
+    },
+    {
+      "IdPlant": 2,
+      "ListLevelHomes": [
+        {
+          "Age": 1,
+          "HpHomePlay": 8,
+          "CoinUpdate": 500,
+          "HpHomeBot": 100
+        },
+        {
+          "Age": 2,
+          "HpHomePlay": 100,
+          "CoinUpdate": 1000,
+          "HpHomeBot": 500
+        },
+        {
+          "Age": 3,
+          "HpHomePlay": 1000,
+          "CoinUpdate": 2000,
+          "HpHomeBot": 5000
+        },
+        {
+          "Age": 4,
+          "HpHomePlay": 10000,
+          "CoinUpdate": 5000,
+          "HpHomeBot": 30000
+        },
+        {
+          "Age": 5,
+          "HpHomePlay": 100000,
+          "CoinUpdate": 12000,
+          "HpHomeBot": 100000
+        },
+        {
+          "Age": 6,
+          "HpHomePlay": 1000000,
+          "CoinUpdate": 25000,
+          "HpHomeBot": 5000000
+        }
+      ]
+    },
+    {
+      "IdPlant": 3,
+      "ListLevelHomes": [
+        {
+          "Age": 1,
+          "HpHomePlay": 8,
+          "CoinUpdate": 500,
+          "HpHomeBot": 100
+        },
+        {
+          "Age": 2,
+          "HpHomePlay": 100,
+          "CoinUpdate": 1000,
+          "HpHomeBot": 500
+        },
+        {
+          "Age": 3,
+          "HpHomePlay": 1000,
+          "CoinUpdate": 2000,
+          "HpHomeBot": 5000
+        },
+        {
+          "Age": 4,
+          "HpHomePlay": 10000,
+          "CoinUpdate": 5000,
+          "HpHomeBot": 30000
+        },
+        {
+          "Age": 5,
+          "HpHomePlay": 100000,
+          "CoinUpdate": 12000,
+          "HpHomeBot": 100000
+        },
+        {
+          "Age": 6,
+          "HpHomePlay": 1000000,
+          "CoinUpdate": 25000,
+          "HpHomeBot": 5000000
+        }
+      ]
+    },
+    {
+      "IdPlant": 3,
+      "ListLevelHomes": [
+        {
+          "Age": 1,
+          "HpHomePlay": 8,
+          "CoinUpdate": 500,
+          "HpHomeBot": 100
+        },
+        {
+          "Age": 2,
+          "HpHomePlay": 100,
+          "CoinUpdate": 1000,
+          "HpHomeBot": 500
+        },
+        {
+          "Age": 3,
+          "HpHomePlay": 1000,
+          "CoinUpdate": 2000,
+          "HpHomeBot": 5000
+        },
+        {
+          "Age": 4,
+          "HpHomePlay": 10000,
+          "CoinUpdate": 5000,
+          "HpHomeBot": 30000
+        },
+        {
+          "Age": 5,
+          "HpHomePlay": 100000,
+          "CoinUpdate": 12000,
+          "HpHomeBot": 100000
+        },
+        {
+          "Age": 6,
+          "HpHomePlay": 1000000,
+          "CoinUpdate": 25000,
+          "HpHomeBot": 5000000
+        }
+      ]
+    },
+    {
+      "IdPlant": 4,
+      "ListLevelHomes": [
+        {
+          "Age": 1,
+          "HpHomePlay": 8,
+          "CoinUpdate": 500,
+          "HpHomeBot": 100
+        },
+        {
+          "Age": 2,
+          "HpHomePlay": 100,
+          "CoinUpdate": 1000,
+          "HpHomeBot": 500
+        },
+        {
+          "Age": 3,
+          "HpHomePlay": 1000,
+          "CoinUpdate": 2000,
+          "HpHomeBot": 5000
+        },
+        {
+          "Age": 4,
+          "HpHomePlay": 10000,
+          "CoinUpdate": 5000,
+          "HpHomeBot": 30000
+        },
+        {
+          "Age": 5,
+          "HpHomePlay": 100000,
+          "CoinUpdate": 12000,
+          "HpHomeBot": 100000
+        },
+        {
+          "Age": 6,
+          "HpHomePlay": 1000000,
+          "CoinUpdate": 25000,
+          "HpHomeBot": 5000000
+        }
+      ]
+    },
+    {
+      "IdPlant": 5,
+      "ListLevelHomes": [
+        {
+          "Age": 1,
+          "HpHomePlay": 8,
+          "CoinUpdate": 500,
+          "HpHomeBot": 100
+        },
+        {
+          "Age": 2,
+          "HpHomePlay": 100,
+          "CoinUpdate": 1000,
+          "HpHomeBot": 500
+        },
+        {
+          "Age": 3,
+          "HpHomePlay": 1000,
+          "CoinUpdate": 2000,
+          "HpHomeBot": 5000
+        },
+        {
+          "Age": 4,
+          "HpHomePlay": 10000,
+          "CoinUpdate": 5000,
+          "HpHomeBot": 30000
+        },
+        {
+          "Age": 5,
+          "HpHomePlay": 100000,
+          "CoinUpdate": 12000,
+          "HpHomeBot": 100000
+        },
+        {
+          "Age": 6,
+          "HpHomePlay": 1000000,
+          "CoinUpdate": 25000,
+          "HpHomeBot": 5000000
+        }
+      ]
+    },
+    {
+      "IdPlant": 6,
+      "ListLevelHomes": [
+        {
+          "Age": 1,
+          "HpHomePlay": 8,
+          "CoinUpdate": 500,
+          "HpHomeBot": 100
+        },
+        {
+          "Age": 2,
+          "HpHomePlay": 100,
+          "CoinUpdate": 1000,
+          "HpHomeBot": 500
+        },
+        {
+          "Age": 3,
+          "HpHomePlay": 1000,
+          "CoinUpdate": 2000,
+          "HpHomeBot": 5000
+        },
+        {
+          "Age": 4,
+          "HpHomePlay": 10000,
+          "CoinUpdate": 5000,
+          "HpHomeBot": 30000
+        },
+        {
+          "Age": 5,
+          "HpHomePlay": 100000,
+          "CoinUpdate": 12000,
+          "HpHomeBot": 100000
+        },
+        {
+          "Age": 6,
+          "HpHomePlay": 1000000,
+          "CoinUpdate": 25000,
+          "HpHomeBot": 5000000
+        }
+      ]
+    }
+  ]
+}

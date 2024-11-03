@@ -1,0 +1,14 @@
+{
+	"FoodDefault":0.2,
+	"FoodPerStep":0.03,
+	"HpPerStep":1.05,
+
+	"TimeCoinMove":3,
+	"DefaultCoinFoodUpgrade":20,
+	"DefaultCoinHpUpgrade":20,
+
+	"RatioUpgradeFood":1.2,
+	"RatioUpgradeHp":1.2
+
+
+}

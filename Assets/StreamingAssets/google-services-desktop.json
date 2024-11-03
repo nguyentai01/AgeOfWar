@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824426624329",
+    "project_id": "we-are-warrior---asteri",
+    "storage_bucket": "we-are-warrior---asteri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824426624329:android:c1644edc5541da5018d698",
+        "android_client_info": {
+          "package_name": "com.warrior.squad.warrior.battle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkfGkzORW5Y6dcKDMhlyVQ7yUzhbGjV9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

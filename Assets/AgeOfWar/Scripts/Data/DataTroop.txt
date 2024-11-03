@@ -1,0 +1,2914 @@
+{
+  "Plant": [
+    {
+      "PlanetName": 1,
+      "ListTroops": [
+        {
+          "Age": 1,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 7,
+              "Dmg": 2,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 5,
+              "Dmg": 4,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 21,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 10,
+              "Dmg": 3,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 8,
+              "Dmg": 6,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 32,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ]
+        },
+        {
+          "Age": 2,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 30,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 14,
+              "Dmg": 18,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 110,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 45,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 21,
+              "Dmg": 27,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 165,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ]
+        },
+        {
+          "Age": 3,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 300,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 190,
+              "Dmg": 80,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1100,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 450,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 285,
+              "Dmg": 120,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1650,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ]
+        },
+        {
+          "Age": 4,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 2000,
+              "Dmg": 300,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1300,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 7200,
+              "Dmg": 3000,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 3000,
+              "Dmg": 450,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1950,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 10800,
+              "Dmg": 4500,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ]
+        },
+        {
+          "Age": 5,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ]
+        },
+        {
+          "Age": 6,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 90000,
+              "Dmg": 12500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 39000,
+              "Dmg": 20000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 300000,
+              "Dmg": 125000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 135000,
+              "Dmg": 18750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 58500,
+              "Dmg": 30000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 1,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 450000,
+              "Dmg": 187500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 1.2,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "PlanetName": 2,
+      "ListTroops": [
+        {
+          "Age": 1,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 7,
+              "Dmg": 2,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 5,
+              "Dmg": 4,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 21,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 10,
+              "Dmg": 3,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 8,
+              "Dmg": 6,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 32,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ]
+        },
+        {
+          "Age": 2,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 30,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 14,
+              "Dmg": 18,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 110,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 45,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 21,
+              "Dmg": 27,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 165,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ]
+        },
+        {
+          "Age": 3,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 300,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 190,
+              "Dmg": 80,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1100,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 450,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 285,
+              "Dmg": 120,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1650,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ]
+        },
+        {
+          "Age": 4,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 2000,
+              "Dmg": 300,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1300,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 7200,
+              "Dmg": 3000,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 3,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 3000,
+              "Dmg": 450,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1950,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 10800,
+              "Dmg": 4500,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 3,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ]
+        },
+        {
+          "Age": 5,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ]
+        },
+        {
+          "Age": 6,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 90000,
+              "Dmg": 12500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 39000,
+              "Dmg": 20000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 300000,
+              "Dmg": 125000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 135000,
+              "Dmg": 18750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 58500,
+              "Dmg": 30000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 450000,
+              "Dmg": 187500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "PlanetName": 3,
+      "ListTroops": [
+        {
+          "Age": 1,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 7,
+              "Dmg": 2,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 5,
+              "Dmg": 4,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 21,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 10,
+              "Dmg": 3,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 8,
+              "Dmg": 6,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 32,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ]
+        },
+        {
+          "Age": 2,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 30,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 14,
+              "Dmg": 18,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 110,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 45,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 21,
+              "Dmg": 27,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 165,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ]
+        },
+        {
+          "Age": 3,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 300,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 190,
+              "Dmg": 80,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1100,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 450,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 285,
+              "Dmg": 120,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1650,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ]
+        },
+        {
+          "Age": 4,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 2000,
+              "Dmg": 300,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1300,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 7200,
+              "Dmg": 3000,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 3,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 3000,
+              "Dmg": 450,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1950,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 10800,
+              "Dmg": 4500,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 3,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ]
+        },
+        {
+          "Age": 5,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ]
+        },
+        {
+          "Age": 6,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 90000,
+              "Dmg": 12500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 39000,
+              "Dmg": 20000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 300000,
+              "Dmg": 125000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 135000,
+              "Dmg": 18750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 58500,
+              "Dmg": 30000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 450000,
+              "Dmg": 187500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "PlanetName": 4,
+      "ListTroops": [
+        {
+          "Age": 1,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 7,
+              "Dmg": 2,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 5,
+              "Dmg": 4,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 21,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 10,
+              "Dmg": 3,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 8,
+              "Dmg": 6,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 32,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ]
+        },
+        {
+          "Age": 2,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 30,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 14,
+              "Dmg": 18,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 110,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 45,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 21,
+              "Dmg": 27,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 165,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ]
+        },
+        {
+          "Age": 3,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 300,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 190,
+              "Dmg": 80,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1100,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 450,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 285,
+              "Dmg": 120,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1650,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ]
+        },
+        {
+          "Age": 4,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 2000,
+              "Dmg": 300,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1300,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 7200,
+              "Dmg": 3000,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 3,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 3000,
+              "Dmg": 450,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1950,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 10800,
+              "Dmg": 4500,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 3,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ]
+        },
+        {
+          "Age": 5,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ]
+        },
+        {
+          "Age": 6,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 90000,
+              "Dmg": 12500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 39000,
+              "Dmg": 20000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 300000,
+              "Dmg": 125000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 135000,
+              "Dmg": 18750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 58500,
+              "Dmg": 30000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 450000,
+              "Dmg": 187500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "PlanetName": 5,
+      "ListTroops": [
+        {
+          "Age": 1,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 7,
+              "Dmg": 2,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 5,
+              "Dmg": 4,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 21,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 10,
+              "Dmg": 3,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 8,
+              "Dmg": 6,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 32,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ]
+        },
+        {
+          "Age": 2,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 30,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 14,
+              "Dmg": 18,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 110,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 45,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 21,
+              "Dmg": 27,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 165,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ]
+        },
+        {
+          "Age": 3,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 300,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 190,
+              "Dmg": 80,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1100,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 450,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 285,
+              "Dmg": 120,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1650,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ]
+        },
+        {
+          "Age": 4,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 2000,
+              "Dmg": 300,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1300,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 7200,
+              "Dmg": 3000,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 3,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 3000,
+              "Dmg": 450,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1950,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 10800,
+              "Dmg": 4500,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 3,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ]
+        },
+        {
+          "Age": 5,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ]
+        },
+        {
+          "Age": 6,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 90000,
+              "Dmg": 12500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 39000,
+              "Dmg": 20000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 300000,
+              "Dmg": 125000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 135000,
+              "Dmg": 18750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 58500,
+              "Dmg": 30000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 450000,
+              "Dmg": 187500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "PlanetName": 6,
+      "ListTroops": [
+        {
+          "Age": 1,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 7,
+              "Dmg": 2,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 5,
+              "Dmg": 4,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 21,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 10,
+              "Dmg": 3,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 5,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 8,
+              "Dmg": 6,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 7,
+              "Lock": 0,
+              "Coin": 10
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 32,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 15,
+              "Lock": 0,
+              "Coin": 50
+            }
+          ]
+        },
+        {
+          "Age": 2,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 30,
+              "Dmg": 10,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 14,
+              "Dmg": 18,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 110,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 45,
+              "Dmg": 15,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 8,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 21,
+              "Dmg": 27,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 50
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 165,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 23,
+              "Lock": 0,
+              "Coin": 500
+            }
+          ]
+        },
+        {
+          "Age": 3,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 300,
+              "Dmg": 50,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 190,
+              "Dmg": 80,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1100,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 450,
+              "Dmg": 75,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 11,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 285,
+              "Dmg": 120,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 16,
+              "Lock": 0,
+              "Coin": 1000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 1650,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 34,
+              "Lock": 0,
+              "Coin": 3000
+            }
+          ]
+        },
+        {
+          "Age": 4,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 2000,
+              "Dmg": 300,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1300,
+              "Dmg": 500,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 7200,
+              "Dmg": 3000,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 3,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 3000,
+              "Dmg": 450,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 17,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 1950,
+              "Dmg": 750,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 10800,
+              "Dmg": 4500,
+              "RangerDmg": 0,
+              "Ranger": 2.5,
+              "Speed": 3,
+              "SpeedAttack": 1,
+              "Food": 24,
+              "Lock": 0,
+              "Coin": 8000
+            }
+          ]
+        },
+        {
+          "Age": 5,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 17000,
+              "Dmg": 2500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 25,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 7200,
+              "Dmg": 4000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 35,
+              "Lock": 0,
+              "Coin": 20000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 55000,
+              "Dmg": 25000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 76,
+              "Lock": 0,
+              "Coin": 100000
+            }
+          ]
+        },
+        {
+          "Age": 6,
+          "FoodReward":150,
+          "InforTroopPlayer": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 90000,
+              "Dmg": 12500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 39000,
+              "Dmg": 20000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 300000,
+              "Dmg": 125000,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ],
+          "InforTroopBot": [
+            {
+              "NameTroop": "Inf",
+              "Hp": 135000,
+              "Dmg": 18750,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 5,
+              "SpeedAttack": 1,
+              "Food": 38,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Ranger",
+              "Hp": 58500,
+              "Dmg": 30000,
+              "RangerDmg": 0,
+              "Ranger": 5,
+              "Speed": 5,
+              "SpeedAttack": 1.5,
+              "Food": 53,
+              "Lock": 0,
+              "Coin": 50000
+            },
+            {
+              "NameTroop": "Cav",
+              "Hp": 450000,
+              "Dmg": 187500,
+              "RangerDmg": 0,
+              "Ranger": 2,
+              "Speed": 7,
+              "SpeedAttack": 1,
+              "Food": 114,
+              "Lock": 0,
+              "Coin": 500000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
